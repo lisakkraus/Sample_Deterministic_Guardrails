@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Ensure text files always have predictable line endings
 * text=auto
+
+# Treat the Logic Chart as a binary file (don't try to "read" it as text)
+*.png binary
+*.jpg binary
+*.pdf binary
+
+# Make sure Logseq/Markdown files are treated as text
+*.md text
