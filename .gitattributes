@@ -1,10 +1,8 @@
-# Ensure text files always have predictable line endings
-* text=auto
+# Allow these files to be parsed as text/standard data
+*.png text
+*.jpg text
+*.jpeg text
 
-# Treat the Logic Chart as a binary file (don't try to "read" it as text)
-*.png binary
-*.jpg binary
-*.pdf binary
-
-# Make sure Logseq/Markdown files are treated as text
-*.md text
+# Ensure they aren't forced into binary mode
+*.png -binary
+*.jpg -binary
