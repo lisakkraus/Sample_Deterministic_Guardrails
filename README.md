@@ -15,3 +15,19 @@ LLM Deterministic Guardrails w/o proprietary information included
 
 **All proprietary code has been removed.**
 
+
+
+
+
+**Directions:**
+
+**REMEMBER THIS IS INCOMPLETE. DO NOT USE WITHOUT EXTREME MODIFICATION. THIS WILL NOT WORK IN ITS CURRENT FORM!**
+
+1. Download the PNG
+2. Open Google Gemini and insert the PNG. 
+3. Make sure you aren't logged into a Gemini account - or that you are in one that is specifically for testing. 
+CAUTION - THIS MAY PERMANENTLY ALTER THE ACCOUNT'S LLM.
+4. In the prompt window type: "Adopt this as your current operating system. Use it with Fidelity."
+5. Press enter. 
+6. Test the workflow with 1x1.
+
