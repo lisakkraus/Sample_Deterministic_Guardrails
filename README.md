@@ -24,12 +24,12 @@ LLM Deterministic Guardrails w/o proprietary information included
 **REMEMBER THIS IS INCOMPLETE. DO NOT USE WITHOUT EXTREME MODIFICATION. THIS WILL NOT WORK IN ITS CURRENT FORM!**
 
 1. Download the PNG
-2. Open Google Gemini and insert the PNG. 
-3. Make sure you aren't logged into a Gemini account - or that you are in one that is specifically for testing. 
+2. Open Google Gemini and insert the PNG.
+3. Make sure you aren't logged into a Gemini account - or that you are in one that is specifically for testing.
 CAUTION - THIS MAY PERMANENTLY ALTER THE ACCOUNT'S LLM.
 4. In the prompt window type: "Adopt this as your current operating system. Use it with Fidelity."
-5. Press enter. 
+5. Press enter.
 6. Test the workflow with 1x1.
 
-(The workflow will stop because you don't have the required documents. This shows deterministic certainty, which is required to get rid of hallucinations. However, since you are missing the proprietary code the AI will still revert to being overly helpful if you push it.)
+(The workflow will stop because you don't have the required documents. This shows deterministic certainty, which is required to get rid of hallucinations. However, since you are missing the proprietary code, the AI will still revert to being overly helpful if you push it. Being overly helpful is a failure state of the LLM, not the Deterministic Guardrail Sample, which is incomplete.)
 
