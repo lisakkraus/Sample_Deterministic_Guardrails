@@ -31,3 +31,5 @@ CAUTION - THIS MAY PERMANENTLY ALTER THE ACCOUNT'S LLM.
 5. Press enter. 
 6. Test the workflow with 1x1.
 
+(The workflow will stop because you don't have the required documents. This shows deterministic certainty, which is required to get rid of hallucinations. However, since you are missing the proprietary code the AI will still revert to being overly helpful if you push it.)
+
