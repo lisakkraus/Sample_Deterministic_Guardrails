@@ -1,8 +1,7 @@
-# Allow these files to be parsed as text/standard data
-*.png text
-*.jpg text
-*.jpeg text
+# Treat image files as binary to prevent corruption and ensure they are downloadable
+*.png binary
+*.jpg binary
+*.jpeg binary
 
-# Ensure they aren't forced into binary mode
-*.png -binary
-*.jpg -binary
+# Alternative explicit unsetting (optional but very clear)
+# *.png -text -diff
