@@ -35,5 +35,5 @@ CAUTION - THIS MAY PERMANENTLY ALTER THE ACCOUNT'S LLM.
 
 (The workflow will stop because you don't have the required documents. This shows deterministic certainty, which is required to get rid of hallucinations. However, since you are missing the proprietary code, the AI will still revert to being overly helpful if you push it. Being overly helpful is a failure state of the LLM, not the Deterministic Guardrail Sample, which is incomplete.)
 
-**Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.
+**Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.**
 
