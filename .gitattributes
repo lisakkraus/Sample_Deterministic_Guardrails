@@ -5,3 +5,6 @@
 
 # Alternative explicit unsetting (optional but very clear)
 # *.png -text -diff
+
+# Force the GIF to be treated as a text file for the scraper
+Secret_Code.txt.gif text
